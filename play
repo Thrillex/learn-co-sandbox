@@ -1,0 +1,1 @@
+bands.each_pair{|pair| p pair}
